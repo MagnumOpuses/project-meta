@@ -1,7 +1,7 @@
 ![alt text][logo]
 
 [logo]: https://github.com/MagnumOpuses/project-meta/blob/master/img/jobtechdev_black.png "JobTech dev logo"
-[A JobTech Project]( https://www.jobtechdev.se)
+<a href="https://www.jobtechdev.se" target="_blank">A JobTech Project</a>
 # Project name
 
 One paragraph explaining the project. It should be breif and explain what the project does rather than exactly how its built.
