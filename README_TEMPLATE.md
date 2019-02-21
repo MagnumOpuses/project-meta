@@ -1,3 +1,6 @@
+![alt text][logo]
+
+[logo]: https://github.com/MagnumOpuses/project-meta/blob/master/img/jobtechdev_white.png "JobTech dev logo"
 # Project name
 
 One paragraph explaining the project. It should be breif and explain what the project does rather than exactly how its built.
