@@ -12,6 +12,3 @@ Project meta contains documentation and tools (future) for creating and maintain
 - [README.md template](README_TEMPLATE.md) &mdash; A readme template for open source projects.
 - [CONTRIBUTING.md template](CONTRIBUTING_TEMPLATE.md) &mdash; A contributing template for open source projects.
 
-## CLI
-
-:construction: There is an experimental CLI in [`cli/`](cli/) folder.
