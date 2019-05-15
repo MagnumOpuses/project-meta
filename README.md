@@ -4,7 +4,19 @@
 [A JobTech Project]( https://www.jobtechdev.se)
 # Project meta
 
-Project meta contains documentation and tools (future) for creating and maintaining open source projects.
+Project meta contains documentation and tools (future) for creating and maintaining JobTech open source projects.
+Jobtechdev.se is the common window where projects created in the spirit of JobTech are visualized.
+
+To be called a JobTech project there are a few obligations
+* The project should have connection to the Swedish labour market
+* It has to be Open Source
+* The project will be found at Github
+* The project uses the listed .md files
+
+If the project follow this lines, you could get it published at jobtechdev.se
+Send an email to <contact@jobtechdev.se>
+
+
 
 :construction: `Project meta` is still very new and things will change quickly and without notice.
 
