@@ -13,7 +13,7 @@ To be called a JobTech project there are a few obligations
 * The project will be found at Github
 * The project uses the listed .md files
 
-If the project follow this lines, you could get it published at jobtechdev.se
+If the project follow this lines, you could get it published at jobtechdev.se  
 Send an email to <contact@jobtechdev.se>
 
 
