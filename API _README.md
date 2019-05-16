@@ -5,7 +5,7 @@
 # Project meta
 
 
-API documentation template
+### API documentation template
 Page 4-end: example of API documentation
 Getting started with <Project Title>
 
@@ -15,7 +15,7 @@ Write short introduction including:
 * What’s the point of this documentation
 * Link to the page where they can find the API
 
-Short version  
+##### Short version  
 Write minimal necessary information for people who doesn’t want to read further.
 
 
@@ -34,7 +34,7 @@ Use case 2 3
 More use cases! 3  
 Contact Information 3
   
-Authentication  
+##### Authentication  
 * Is the API key the same for everything or should people use different ones for different
 endpoints?
 * Do you use personal keys (if so, how should people get one) or one generic public key?
@@ -42,7 +42,7 @@ endpoints?
 https://en.wikipedia.org/wiki/Application_programming_interface_key)
 
 
-Resources
+##### Resources
  
 Resource 1   
 * What is this resource (a word, a job ad)?
