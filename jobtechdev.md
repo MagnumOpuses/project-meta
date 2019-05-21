@@ -2,13 +2,13 @@
 
 
 
-### Projectname ( fill in the name of the project)
-
+### Projectname 
+( fill in the name of the project)
 
 
 
 ##### Description
-(Describe th project briefly)
+(Describe the project briefly)
 
 
 
