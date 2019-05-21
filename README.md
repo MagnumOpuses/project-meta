@@ -26,4 +26,4 @@ Send an email to <contact@jobtechdev.se>
 - [README.md template](README_TEMPLATE.md) &mdash; A readme template for open source projects.
 - [CONTRIBUTING.md template](CONTRIBUTING_TEMPLATE.md) &mdash; A contributing template for open source projects.
 - [API_README](API%20_README.md) &mdash; A template for documenting APIs
-- [JOBTECHDEV.md](jobtechdev.md)
+- [JOBTECHDEV.md](jobtechdev.md) &mdash; A template for content on jobtechdev.se
