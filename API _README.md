@@ -20,20 +20,20 @@ Write short introduction including:
 Write minimal necessary information for people who doesn’t want to read further.
 
 
-Longer version  
-Authentication 2  
-Resources 2  
-Resource 1 2  
-Resource 2 2  
-Resource 3 ... 3  
-Results 3  
-Successful queries 3  
-Errors 3  
-Use cases 3  
-Use case 1 3  
-Use case 2 3  
-More use cases! 3  
-Contact Information 3
+##### Longer version include: 
+Authentication   
+Resources   
+Resource 
+Resource 
+Resource 
+Results 
+Successful queries 
+Errors 
+Use cases  
+Use case  
+Use case 
+More use cases! 
+Contact Information
   
 ##### Authentication  
 * Is the API key the same for everything or should people use different ones for different
@@ -59,9 +59,9 @@ mining)?
 * Is this resource reliable or in beta?
 * What information this resource contains
  
-Resource 3 ...
 
-Results
+
+##### Results
 
 Successful queries  
 Explanation of results, including:
@@ -69,10 +69,10 @@ Explanation of results, including:
 * Structure of results if they all look the same. If the results differ for different resources
 then refer to the above Resource-headline
 
-Errors  
+##### Errors  
 Explain the possible error codes
 
-Use cases
+##### Use cases
 
 Use case 1  
 Make up a use case
@@ -82,7 +82,7 @@ Make up another use case2
 
 More use cases!
 
-Contact Information
+##### Contact Information
 
 * Bug reports are issued at <link to Github>
 * Link to jobtechdev.se
