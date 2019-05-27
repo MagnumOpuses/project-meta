@@ -22,17 +22,12 @@ Write minimal necessary information for people who doesn’t want to read furthe
 
 ##### Longer version include: 
 Authentication   
-Resources   
-Resource 
-Resource 
-Resource 
-Results 
-Successful queries 
-Errors 
+Resources  
+Results  
+Successful queries   
+Errors  
 Use cases  
-Use case  
-Use case 
-More use cases! 
+More use cases!  
 Contact Information
   
 ##### Authentication  
