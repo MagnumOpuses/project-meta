@@ -6,7 +6,8 @@
 
 
 ### API documentation template
-Page 4-end: example of API documentation
+Example of API documentation:
+
 Getting started with <Project Title>
 
 Write short introduction including:
