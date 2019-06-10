@@ -8,6 +8,10 @@ One paragraph explaining the project. It should be breif and explain what the pr
 
 _Optional_: If the project is not ready for production use it can be a good idea to add a note about the project status &mdash; for example _Experimetal_, _Alpha_ etc (also use emoji :warning: :construction: :information_source: to catch attention).
 
+## Versions, current dev state and future
+
+(Production, dev, construction or beta)
+
 ## Getting started
 
 Here you should explain how a user of the project can get it up and running on their own machine.

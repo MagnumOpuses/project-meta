@@ -15,7 +15,7 @@
 
 ##### Versions, current dev state and future
 
-(Production, dev, construction or beta)
+Link to corresponding header on README.md
 
 
 
