@@ -27,7 +27,7 @@ Guidelines for bug reports:
 
 * __Use the GitHub issue search__ — check if the issue has already been reported.
 * __Check if the issue has been fixed__ — try to reproduce it using the latest master or development branch in the repository.
-* __Isolate the problem__ — ideally create a reduced test case and a live example. This JS Bin is a helpful template.
+* __Isolate the problem__ — ideally create a reduced test case and a live example. EX.[JS Bin](https://jsbin.com) is a helpful template.
 
 A good bug report shouldn't leave others needing to chase you up for more information. Please try to be as detailed as possible in your report. What is your environment? What steps will reproduce the issue? What browser(s) and OS experience the problem? Do other browsers show the bug differently? What would you expect to be the outcome? All these details will help people to fix any potential bugs.
 
