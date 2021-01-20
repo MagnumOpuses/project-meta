@@ -15,7 +15,7 @@ To be called a JobTech project there are a few obligations
 * The project uses the listed .md files
 
 If the project follow these lines, you could get it published at jobtechdev.se  
-Send an email to <contact@jobtechdev.se>
+Send an email to <jobtechdevelopment@arbetsformedlingen.se>
 
 
 
